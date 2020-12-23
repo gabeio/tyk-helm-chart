@@ -7,7 +7,6 @@ entries:
     description: Helm chart for tyk-pro
     digest: 31b8b40fc106e044f45634b4f2d373597543032a9b40e5ef9e66369dbb7fe35f
     name: tyk-pro
-    type: application
     urls:
     - https://github.com/gabeio/tyk-helm-chart/releases/download/0.5.0/tyk-pro-0.5.0.tar.gz
     version: 0.5.0
