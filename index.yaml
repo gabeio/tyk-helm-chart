@@ -1,5 +1,15 @@
 apiVersion: v1
 entries:
+  tyk-hybrid:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2020-12-23T06:41:20.786990545Z"
+    description: Helm chart for tyk-hybrid
+    digest: b3a9f25950555729a64362afa0fd686cccc193a8f421d75daee5109e64ff7250
+    name: tyk-hybrid
+    urls:
+    - https://github.com/gabeio/tyk-helm-chart/releases/download/0.5.0/tyk-hybrid-0.5.0.tar.gz
+    version: 0.5.0
   tyk-pro:
   - apiVersion: v1
     appVersion: "1.0"
